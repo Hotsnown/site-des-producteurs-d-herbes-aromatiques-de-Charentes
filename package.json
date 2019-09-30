@@ -1,7 +1,7 @@
 {
-  "name": "pro-mern-stack",
+  "name": "Site PPAM",
   "version": "1.0.0",
-  "description": "Pro MERN Stack",
+  "description": "Gestion des stocks",
   "main": "index.js",
   "scripts": {
     "start": "node dist/server.bundle.js",
@@ -15,23 +15,6 @@
     "lint": "eslint --ext js,jsx src server webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vasansr/pro-mern-stack.git"
-  },
-  "keywords": [
-    "mern",
-    "react",
-    "mongodb",
-    "express",
-    "node"
-  ],
-  "author": "Vasan Subramanian",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vasansr/pro-mern-stack/issues"
-  },
-  "homepage": "https://github.com/vasansr/pro-mern-stack#readme",
   "dependencies": {
     "babel-polyfill": "^6.13.0",
     "body-parser": "^1.15.2",
